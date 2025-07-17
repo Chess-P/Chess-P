@@ -52,8 +52,8 @@
 
 ## 📞 Contect
 
-- 010-4919-8712
-- qkrrbghd613@gmail.com
+- 010-0000-8712
+- qh613@naver.com
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" width="100%"/>
