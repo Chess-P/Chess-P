@@ -1,4 +1,4 @@
-## ![](./img/etc/api.svg)
+## ![](./img/background/api.svg)
 
 ## 👨‍💻 Skills
 
